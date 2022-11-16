@@ -111,6 +111,19 @@ If you are above senior mobile engineer, the chances are that you are one of the
 1. Educate managers on the challenges
 1. Don't stop growing, no matter how "fancy" your title
 
+## Mobile Engineering Management
+
+Sooner or later, you are probably going to find yourself noticing engineers or teams "reinventing the wheel". As a manager, you might have more exposure to spot pain points that could be better solved with a uniform solution by building a shared framework, improving tooling, or unifying processes.
+
+Here are suggestions for doing just that:
+
+1. Verbalize the problems this team could solve
+1. Empower engineers to think about problems, solutions, and data.
+1. Get informal buy-in from your management chain and product management
+1. Write a draft narrative and share it with key people
+1. Get the funding
+1. Don't sweat if your are not funded
+
 **Mobile Only Career Limitations for Managers**
 
 Being perceived as someone who can only manage mobile teams can easily limit your managerial career growth.
@@ -125,7 +138,5 @@ This is many benefit if you become mobile engineering manager:
 Being mobile-only isn't always limiting, there are plenty of managers and technical directors who specialize and can grow their careers.
 
 As a manager, it is your responsibility to help ensure there is a growth path for mobile engineers within your team.
-
-## Mobile Engineering Management
 
 ## Mobile Learning at Uber base on Author
