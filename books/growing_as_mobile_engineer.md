@@ -140,3 +140,55 @@ Being mobile-only isn't always limiting, there are plenty of managers and techni
 As a manager, it is your responsibility to help ensure there is a growth path for mobile engineers within your team.
 
 ## Mobile Learning at Uber base on Author
+
+At uber use **Program teams**, were the majority of teams and people and I estimate between 65 - 70% of engineers worked on a program team.
+
+Program teams had the following characteristics:
+
+1. **Long-lived** => opposoed to just assembled for a short project.
+1. **Cross-functional** => each team had the staffing to allow it to execute its mission.
+1. **Customer are External** => program teams would work directly with customer.
+1. **Focused on a business mission** => All program teams were focused on moving the needle for the business.
+
+Platform teeams created and owned the foundation and technology building blocks that Program teams could use to ship faster and focus on their business problem. Programs build on top of Platform:
+
+- Focused on a techinal mission
+- Specialized and rarely cross-function
+- Customer are internal
+- Cunsumed by multiple "verticals" (Program)
+
+In Uber, the mobile platform team create new [RIB architecture](https://github.com/uber/RIBs). These architecture is a logical approach, and has a breakthrough in how this architecture is not just a document and one example detailed in one document or blog post. It is a toolset of various parts:
+
+1. Thorought documentation.
+1. Code generation
+1. Onboarding documentation
+1. Example projects
+1. Releable support for the architecture
+1. Proactive outreach for feedback on the architecture
+1. Tooling to help to work with architecture
+
+> Good architecture is more than just architecture, it includes documentation, tooling, and support to adopt the architecture.
+
+In Uber deviced modules of the app intor Core and Optional categories. Where each module is a plugin.
+
+**Core plugins** were ones powering one of the Core flows. They needed to always work reliably. There was no option to turn these off, not even remotely. To ensure reliability several quality put in place:
+
+- Strict code reviews
+- Monitoring and alerting
+- Thorought testing
+- Any change A/B tested.
+- Infrequent changes
+
+**Optional plugins** were everything else, and the majority of the app. The above limitations did not apply to these plugins. Teams owning the plugin could decide how rapidly or cautiously they wanted to proceed with changes.
+
+There are several case noticed outages that the backend teeam could not detected:
+
+- Crashes
+- Networking Issues
+- Unresponsive pages
+- Performance issues
+- Third-party check issues
+- Error messages
+
+
+> In the end, mobile engineering is not all that different from software engineering, and the best mobile engineers have much in common with the best web, backend, data engineering and other types of software engineers.
