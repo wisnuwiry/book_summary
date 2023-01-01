@@ -50,16 +50,28 @@ Many software product on the market today that serve various industries. Often a
   - Errors
 
 3. **Efficiency**
+  
+  The products needs to use both human and system resources are effectively and efficiencly as possible. The efficiency have 3 dimensions: Sistem Resource, Effort Customer, and Labour.
 
 4. **Flexibility**
+  
+  It is essential to keep up with rapidly changing markets, technologies, and customer needs.
 
 5. **Releability**
 
-6. Maintanability
+  A good product doesn't have to be perfect, it just has to be reliable indeed, and it should work smoothly.
 
-7. Portability
+6. **Maintanability**
+  
+  It is refer to how easky you can repair, improve and comprehend your product.
 
-8. Integrity
+7. **Portability**
+
+  Portability it mean product can be survive not only in local market, but in different coutries, economic, sociological or cultural factors. You may not nee dto focus on this in the early stage, but a well-thought product should not ignore portability.
+
+8. **Integrity**
+
+  Integrity is one of vital for demosntrating product safety, security, and maintanability. Integrity include the robust protection of sensitive information of user/customer data.
 
 ## Chapter 2
 
