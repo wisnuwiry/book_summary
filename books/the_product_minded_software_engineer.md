@@ -20,6 +20,7 @@ Humans have had a survival instinct since ancient times by solving problems. So,
 
 A product is made to solve a problem, and a product can be different ways to solve the problem. And as software engineers, we solve problems with code, but the code still serves the purpose of the product. We can't solve a problem with our code, without understanding the details of the product and its purpose.
 
+***
 ## Chapter 2
 
 ## Chapter 3
