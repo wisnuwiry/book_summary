@@ -46,7 +46,7 @@ Many software product on the market today that serve various industries. Often a
   - Memorability
   - Learnability
   - Efficiency
-  - Satiffaction
+  - Satisfication
   - Errors
 
 3. **Efficiency**
@@ -75,6 +75,23 @@ Many software product on the market today that serve various industries. Often a
 
 ## Chapter 2
 
+> "Understaing the Problem Space and Clarifying the Solution Space"
+
+### How do We Solve the Problem?
+
+#### Human Problem Solving
+
+  About Problem solving Allen Newell and Herbert Simon recommend the classic book with strategies in their book:
+
+  1. Categorize the problem you want to solve or find the equivalent in the existing categories
+  1. Write a computer program that solves the problem in its simplest from
+  1. Ensure that all stakeholders related to the problem can verbally express their ideas about the solution and include them in the solution
+  1. FInd the differences or similarities of your program with the verbal solution
+
+#### Problem Solcing is Searching a Problem Space
+
+  > Problem solving is essentially a search through an abstract problem space. Newell & Simon
+  
 ## Chapter 3
 
 ## Chapter 4
