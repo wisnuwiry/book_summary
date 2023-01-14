@@ -91,7 +91,111 @@ Many software product on the market today that serve various industries. Often a
 #### Problem Solcing is Searching a Problem Space
 
   > Problem solving is essentially a search through an abstract problem space. Newell & Simon
+
+#### Problem Solving Difficulty
+
+  The size of the problem space how strongly the task itself suggests the best space. Many problems to be problems once we have the correct procedure in memory. We need to develop memorized answers and algorithms that eliminate the need problem solving altogether.
+
+#### What shot programs fit best?
+
+  Productions have a few characteristic that make plausible for modelling aspect of human right:
   
+  1. Their modularity means that parts what has been learn transfer to new skill.
+  1. They extend the basic behaviourist notion of stimulus-response.
+  1. They force serial order on human thinking.
+
+#### How we can solve the problem better?
+
+  Prior knowledge exerts an anormous influence on problem-solving. Consider the ways prio knowledge influences your thinking:
+
+  - Determines your choice of problem space.
+  - Determines which operators are available to you.
+  - Create memories of specific pattern, reducing the analysis required.
+
+  > Knowledge is more important than intelligence for particular classes of problems.
+
+
+### The Important of Understanding the Problem
+
+  > "if I were given one hour to save the planet, I would spend 59 minutes defining the problem and one minute resolving it" -Albert Einstein
+
+  All words of windom are actually based ib experience. We should deeply understand and describe the problem as clearly as possible before finding and implementing the solution.
+  
+  We need to understand the first step in developing a good product after summarizing the characteristics of a good product.
+
+  > "It's not that i'm so smart, it's just that I stay with problems longer" -- Albert Einstein
+
+  That is contain assumtions, no matter how simple the problem is. Because can be no problem without assumtions, we must prioritise all assumtions and challenge them one by one to find the right solution.
+
+  Makin the problem more minor is one way to examine a problem statement. We can make the problem smaller by breaking it into pieces or complete the problem bigger by making it more abstract.
+
+  Before rushing to solve a problem, always look at it from different perspectives. Looking at it with different eyes is a great way to have instant insight into new, overlooked directions.
+
+  Some language construct that always help it moer effective:
+
+  - Assume a myriad of sulutions
+  - Make ti possitive
+  - Frame your problem in the form of a question
+
+  Example: 
+
+  ```
+  In what wyas might I packer (action) my book (object) moer attractively (qualifier) so people will buy more of it (end result)?
+  ```
+
+### Clarify the Solution Space
+
+  After fully understanding the problem, we need to clarify the solution space. We have to clarify our solution space to make a high-level design of the solution, plan you interations, and plan resources, or can able to see the distance between our and our goals more clearly.
+  
+  Impact mapping is a tool for product development teams to choose which featuers to prioritise by working outward from an overarching goal and then locating the big or small actions that will accomplish those goals. 
+
+  WIth the goal at the centre of impact mapping, more time can be spant identifying and degining the goal than anything else. If you can answer the following SMART goal questions:
+
+  - Is it **S**pecific?
+  - Is it **M**easurable?
+  - Is it **A**ction-oriented?
+  - Is it **R**ealistic?
+  - Is it **T**imely?
+
+  And the impact mapping use framework consisting of 4 different steps (Why, Who, How, What)
+
+  ![](../assets/impact_mapping.png)
+
+#### The Goal: Why?
+  
+  This question totally represents your business goal. This the "Why" question leads us to the following thwo questions:
+
+  1. Do you solve the right problem? and how do you know?
+  1. How do you measure the success of your product/service?
+
+  The Golder Circle consists of three layers from the "Start with a Why" book:
+
+  1. Why - This is the core belief of the business. It's why the business exists
+  1. How - This is how the business fulfils that core belief
+  1. What - This is what the company does to fullfil that core belief
+
+#### The Actors: Who?
+
+  In the "Who" part of impact mapping, we investigate "Who can help use reach our goal?", "WHose behaviour do we want to impact?", "Who can obstruct it?". This about people with whom you don't normally collaborate, be specific as possible.
+
+#### The Impact: How?
+  
+  The "How" part describe the impacts of our product/service: "How do we want to change the behaviour", "How could our actors behaviour change to help use achieve our goal?", "Which behaviour is most likely to reach our goal?". Focus on what the actors most likely would do to support us to reach our goal, not everyting they `can` do. Consider that could potentially or on pupose hinder us.
+
+#### The Deliverables: What?
+
+  Output are important products, services, profits, and revenues: the What outcomes create meaning, relationship, and differences: the Why output, such ad revenue and profit, enable us to fund outcomes: but without outcomes, there  is not need for outputs.
+
+  ![](../assets/impact_mapping_relationship.png)
+
+### Test your Solution Space with Data
+  
+  > "Without data, you're just another person with an opinion." - W.Edward Deming
+
+  Data-driven decision making is the practice of collectiing data, analysing it, and basing decisions on insights derived from the information. Data-driven decisions are more objective and can be quickly evaluted according  to their impact on metrics.
+
+  The term data-driven may seem redundant as people who make decission might already rely on data. Data0driven decision making leads to greater transparency and accountability and this approach can improve teamwork and staff engagement.
+
 ## Chapter 3
 
 ## Chapter 4
