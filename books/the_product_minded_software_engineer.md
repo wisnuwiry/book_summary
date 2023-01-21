@@ -198,4 +198,77 @@ Many software product on the market today that serve various industries. Often a
 
 ## Chapter 3
 
+> "The key characteristics of product-oriented engineers and how to empower our competencies"
+
+#### Start with Why
+
+Product-minded engineers always start why, they tirelessy ask the why question and repeat it until they are satisfied. And you need want to understand the case of the problem more than the solution and they are interested in it.
+
+#### Protest By Nature
+
+Product minded engineers never accepts the requests of the stakeholders they work with. May be satisfied with their answer to the WHY, but never hesitate to test the solution. Most of the time, they do not accept this idea as it is and try to improve the solution.
+
+#### Think Twice
+
+Product minded engineers often ahve well-thought-out ideas. Take the time to understand how the business works, how the product fits in, and its goals and really case about the feelings of your customers. Straight into data about business and user metrics, getting their hands on this data however they can. And all of ideas are base on data. 
+
+Always think twice before sharing their thought with their teammates. When their ideas are hard to sell. They try to find out why, the purpose of doing this is not arrangance and erally wanto understand the gaps in their ideas.
+
+#### Think Outside the Box
+
+Product minded engineer are adept at seeing the big picture, they never focus in single point do not hesitate to use their instincts to know the future, But not be forgetten the basis of their experience. Consider many open points, such as the pain points that any change will cause to customer(different market factor, competitor reaction).
+
+#### Smooth Communicators
+
+Product minded should solid communication with their non engineer stakeholders. And they also smooth communicatorsm making it clear they're interesetd in learning more about how toher disclines work.
+
+#### Trade of Juggler
+
+Product engineer have unique strengths at engineering and product perspective at the same time. They can find different and reliable solutions.
+
+#### Always Patient
+
+Constantly stive to improve their ideas, but they know that the right idea can only make a significant impact at the right time. Wait petiently for the right time to come, while doing this smell,market and follow the competitors.
+
+#### Edge Case Master
+
+Be able to predict many edge cases and address then to the right points. Sometime need enought time and energy to deal with edge cases, however it more benefical in many cases to addres them and plan them instead of wasting time and envery overcoming these edge cases. We need use time really efficiently.
+
+#### Strike Home with Customer
+
+They constantly worry about their users not understanding their intentions cleary. They usually have question "How can we be sure that our users will be able to use the features we have developed in the way we intended".
+
+### Become a Product-Minded Engineer
+
+#### Discover your company in time
+
+You can start by learning about your business model, how your company made money
+ or where it spends its money. Your intention should be to grasp the company's business model, you can research most profitable products, departments or parts.
+
+#### Make a String Relationship with Your Product Person
+
+You can make a strong relationship with your product person, let them mentor yo so you can have some excellent insights. 
+
+> Chit chats are perfect for that, even you will be surprised at what you learn in this small talks.
+
+#### Find who Ferquently Interacts with the Customer
+
+One of the best ways to understand a product is to participate in user research, customer support and similar activities. You can clearly understand how cutsomer support and similar activities.
+
+#### Don't be Afraid to Suggest new Ideas
+
+You can organize brainstorming session. Never be afraid to take the initiative, if really know your business, product and other stakeholders, it's worth the risk, you can start with small suggestion for your project.
+
+#### Talk about Tradeoffs
+
+You can try to find your tradeoff, do not try to find only the engineering tradeoffs your project but also the tradeoffs of the product itself.
+
+#### Feedback is Important
+
+If Frequently ask for feedback from the product persons work with, you can quickly realize your weakness and improve your weaknesses. You can have feedback and valuable suggestion can guide you from teammates. These people who best test your ideas on this matter, as required but their role.
+
+#### Code First vs Product First
+
+Tech requirement should be fefine to solve problems with your product. Code first engineers are missing something very fundamental despite their good intention. User don't case about tech stack, quality of code , or many facy terms are really meaningless to them.
+
 ## Chapter 4
