@@ -272,3 +272,66 @@ If Frequently ask for feedback from the product persons work with, you can quick
 Tech requirement should be fefine to solve problems with your product. Code first engineers are missing something very fundamental despite their good intention. User don't case about tech stack, quality of code , or many facy terms are really meaningless to them.
 
 ## Chapter 4
+
+> "A simple framework that you can use to become a good product minded engineer"
+
+### The Cygnus method
+
+Cygnus is the cover of this book. The cygnus method is a set rules that include the basic principle of eight different approachs that author have applied. Each prespective has different intentiuons in tiself, but the goal to be achieved is to be a good product minded engineer.
+
+#### Do Collaboration Sessions Frequently
+
+Many software engineer are introverts, but this can be overcome by organizing collaboration session on verious topics. Theese session allow individials to express themeselves beter and challenge their ideas by listening to others, leading to a better understanding of the product. To start, organize sessions with your own team and expand the audience to include close colleagues and eventually the entire organization. And don't font that, you have to get to know your team.
+
+#### The Community Contribution is Undeniable
+
+You don't need to be completely sure of something to contribute, and contributing can have positive results. One way to contribute is throught open-srouce project, but there are many other ways to think, act, and work collaboratively. Instead of focusing on individual ambitions, this about the values of your community and find ways to improve both yourself and the community throught presentations, writing articles, sharing resources, and speaking at events. Your can start small by sharing with your team and gradually expand your reach.
+
+#### Develop your Reading Habit
+
+Reading is an effective way to reinforce theoretical knowledge and improve memory, vocabulary, focus, and concerntration. Don't view books as old fashioned, as many issues discussed in then are still relevent today. Instead focus on reading masterpeice that wil change your perspective and gain knowledge from different backgrounds.
+
+#### Developer your Engineering Perspective
+
+Problem exploration is the process of identifying, defining, and bounding design problems. It is an ongoing process and new perspectives and ideas for solutions can emerge through it. To change your engineering perspective, you can follow different engineers and learn about their perspectives through podcasts, events, or direct communication. It is important to always be open to learning from others, testing your own ideas, and being open to hearing new perspectives and ideas, as even small insights can help solve big problems.
+
+#### Pragmatic Thinking and Learning
+
+Practical and extensive collection of ideas, framework, tools and tips to supercharge you learning, ostensibly for programmers but relevant to anyone who palns on hacking therig learning at schoold, home and work.
+
+Key characteristics that pragmantic programming by Andrew Hunt:
+
+1. We should take responsibility for our code and decisions
+1. Do not leave broken windoes unrepaired
+1. Think critically
+1. Know your tools 
+1. Program and refactor deliveratly
+1. Use Version Control
+1. Test your Code
+1. Automate all the things
+
+This is what concepts about how can think and learn pragmatically:
+
+- **Always consider the context** => When focus on small pieces, you cannot see the big picture.
+- **Use rules for novices and inuition for experts** => TO become expert must learn to use your intuition and trust it.
+- **Know what you don't know** => Wisdone begins with beight aware of what you dont't actually know.
+- **Learn by Watching and Imitating** => These are safer and cheaper method instead of learning by making mistakes.
+- **Keep practicing in order to remain an expert** => Have to practice constanly to sharpen your skills.
+- **Avoid formal methods** => If ned creativity, intuition or creativity, ignore the formalities and focus on them.
+- **Learn the Skill of learning** => There is no end to education. It is not that your a book, pass an examination, and finish weith education.
+- **Capture all of your ideas** => Consider your ideas, you cannot keep everything in your mind.
+- **Strive for good design** => Focus on how perfect it is, You should try to design extraordinary things.
+- **Use your all senses** => The more senses you engage in a task, the moer involved and focuses your brain will be.
+- **Step away from the keyboard** => You need the space to let your background processes figure out the problesm you're encoutering.
+- **Change your viewpoint to solve the problem** => You can clarify the solution, the solution is not linear.
+- **Whatch for outliers** => Sometimes, a case is seen as impossible as a percentage can create unexpected costs for you
+- **Be comfortable with uncertainty** => You cannot ignore this, don't worry about the rest if you really thin you've elimicated many uncertainties.
+- **Hedge your bets with diversity** => You may not always have accurate ideas, if you don't trust your idea, don't play this bet.
+- **Act as you've evolved, breathe, and don't hiss** => You can be sure that you wil get more unambigous answers.
+- **Trust intuition, but verify** => Really trust your intuition. If you can justify own intuitions, people can, of course, do so.
+- **Create SMART objectives to reach your goals** => SMART (Specific, Measurable, Achievable, Relevant, Time-bound)
+- **Plan your investment in learning deliberatly and developing your mind** => You shou8ld careful while spendiung this liquidity on your investments.
+- **Learn from similarities, unlearn from differences** => The similarities actually offer a lot of opportunities to learn something, differences are something you should learn from.
+- **See without judging and then act** => You can be sure that you are not there to judge anyone wherever you are. Whastever causes tendecies in your mind, first focus on them and try to handle them.
+- **Give yourself permission to fail; its the path to success** => Fail fast and learn fast is a suitable method. You can fail fast and learn quickly in many ways.
+- **Grab the whell, you can't steer on autopilot** => Don't take your hand off the steering wheel to not lose the trust in yourself.
