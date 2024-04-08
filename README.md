@@ -5,6 +5,7 @@ A summary of the books I have read. Here only for the record I read a book to ma
 ## Engineer
 
 - [The Product Minded Software Engineer](./books/the_product_minded_software_engineer.md)
+- [The Effective Engineer](./books/the_effective_engineer.md)
 
 ## Mobile
 
