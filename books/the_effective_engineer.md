@@ -9,13 +9,16 @@ Website: "https://www.effectiveengineer.com/"
 
 ## Adopt the Right Mindsets
 
-### Focus on High Leverage Activities
+## Chapter 1: Focus on High Leverage Activities
+
+![](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*D590WldJsQ8LlRnDu3o0aA.jpeg)
+
 - Leverage = Impact Produced / Time Invested
 - Use Leverage as Your Yardstick for Effectiveness
 - 80% of the impact comes from 20% of the work.
 - Focus on high leverage and not just easy wins.
 
-### Optimize for Learning 
+## Chapter 2: Optimize for Learning 
 - Change jobs if you have to. 
 - Optimizing for learning is high leverage. 
 - Adopt a growth mindset. 
@@ -42,7 +45,10 @@ Website: "https://www.effectiveengineer.com/"
   - Read Books. Attend Conferences.
   - Build and maintain strong relationships.
 
-### Prioritize Regularly
+## Chapter 3: Prioritize Regularly
+
+![](../assets/prioritize_regularly.png)
+
 - Opportunity cost of working on wrong ideas can set back growth by years.
 - Prioritize tasks based on ROI.
 - Regular prioritization is high leverage activity.
@@ -60,7 +66,7 @@ Website: "https://www.effectiveengineer.com/"
 - Prioritizing is difficult. 
 - Prioritization is high leverage. It has huge impact on your ability to get right things done.
 
-### Invest in Iteration Speed 
+## Chapter 4: Invest in Iteration Speed 
 - Continuous Deployment is high leverage.
   - Will save a lot of time in manual deployment of code. They are the people who get things done. Effective Engineers produce results. 
 - Move fast to learn fast.
@@ -83,7 +89,7 @@ Website: "https://www.effectiveengineer.com/"
   - One editor. One high level language. Shell. Keyboard > Mouse. Automate manual workflows. Use interactive shell. Make running specific tests easy.
 - **Faster you can iterate, faster you can learn.** 
 
-### Measure what you want to Improve
+## Chapter 5: Measure what you want to Improve
 - Use metric to drive progress.
   - If you can't measure it, you can't improve it.
   - Good metric. 
@@ -118,7 +124,7 @@ Be skeptical about data integrity.
  
 :heavy_check_mark: Measure your progress. Carefully choose your top-level metric. Instrument your system. Know your numbers. Prioritize data integrity. 
 
-### Validate your ideas early and often. 
+## Chapter 6: Validate your ideas early and often. 
 - Not validating early leads to wasted efforts.
 - Don't delay get feedback. 
 - Find low effort ways to validate work. 
@@ -127,7 +133,7 @@ Be skeptical about data integrity.
 - No large implementations.
 - Working solo? Be wary. Be extra vocal and get feedback.
 
-### Improve project estimation skills.
+## Chapter 7: Improve project estimation skills.
 - Beware of mythical man month. Communication overhead is significant. 
 - Reduce risk early.
 - Rewrite projects - almost always fail. 
@@ -135,7 +141,7 @@ Be skeptical about data integrity.
 - Do the riskiest task first. 
 - Allow buffer room for the unknown.
 
-### Balance Quality with Pragmatism
+## Chapter 8: Balance Quality with Pragmatism
 - High code quality. Code readability.
 - Establish sustainable code review process.
 - Code reviews help:
@@ -166,7 +172,9 @@ Be skeptical about data integrity.
 - Accumulating technical debt is fine as far as it is repaid within time. 
 - Refactor often.
 
-### Reduce Operational Complexity
+## Chapter 9: Minimize Operational Burden
+
+#### Reduce Operational Complexity
 - Keep no. of technologies low. Don’t sway towards shiny new technologies.
 - Every additional technology you add is is guaranteed to go wrong eventually. Will need your time. 
 - Do the simple thing first.
@@ -176,13 +184,13 @@ Be skeptical about data integrity.
 - “What’s the simplest solution that can get the job done while also reducing our future operational burden?” 
 - Discipline to focus on simplicity is high leverage. 
 
-### Fail Fast 
+#### Fail Fast 
 - Fail immediately and visibly.
 - Doesn’t necessarily mean crashing your programs for users.
 - fail-fast to surface issues immediately. 
 - Failing fast is high leverage as it saves debugging time.
 
-### Relentlessly Automate
+#### Relentlessly Automate
 - Automating mechanics is good.
 - Automating decision making - no.
 - Hone your ability to respond and recover quickly.
@@ -191,7 +199,7 @@ Be skeptical about data integrity.
 - Make batch process idempotent 
 - Make processes retryable, i.e., not leaving any global state. 
 
-### Invest in your team's Growth
+## Chapter 10: Invest in your team's Growth
 - Invest in onboarding.
 - The higher you climb up the engineering ladder, the more your effectiveness will be measured not by your individual contributions but by your impact on the people around you.
 - **"You’re a staff engineer if you’re making a whole team better than it would be otherwise. You’re a principal engineer if you’re making the whole company better than it would be otherwise. And you’re distinguished if you’re improving the industry.”** 
@@ -212,7 +220,7 @@ Be skeptical about data integrity.
 
 :sunny: **“Leverage is the lens through which effective engineers view their activities. ”** :sunny:
 
-### 10 Books to read: 
+### 10 Books to read by author: 
 - Peopleware Productive projects and Teams. Amazon. My Summary.
 - Team Geek: A Software Developer’s Guide to Working Well with Others. (Debugging Teams) Amazon. My Summary. 
 - High Output Management
