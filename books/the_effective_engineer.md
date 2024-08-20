@@ -5,7 +5,9 @@ Website: "https://www.effectiveengineer.com/"
 ---
 
 ### What's an Effective Engineer? 
-- They are the people who get things done. Effective Engineers produce results. 
+- They are the people who get things done. Effective Engineers produce results.
+
+> How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact, Effective Bookshelf.
 
 ## Adopt the Right Mindsets
 
@@ -19,6 +21,9 @@ Website: "https://www.effectiveengineer.com/"
 - Focus on high leverage and not just easy wins.
 
 ## Chapter 2: Optimize for Learning 
+
+Learning is a high-leverage activity due to its exponential growth. As engineers build their base of knowledge, the combination of learned skills increases the areas to which an engineer can contribute. The increased depth and breadth an engineer can contribute to making learning a high-leverage activity. An engineer should regularly invest in active learning.
+
 - Change jobs if you have to. 
 - Optimizing for learning is high leverage. 
 - Adopt a growth mindset. 
